@@ -37,7 +37,7 @@ La aplicación sigue una arquitectura MVC (Modelo-Vista-Controlador):
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/username/MontañaOptima.git
+git clone https://github.com/Rik4rd0/Monta-aOptima.git
 
 # Entrar al directorio
 cd MontañaOptima
