@@ -9,7 +9,7 @@ Este proyecto fue desarrollado para resolver un problema común en excursionismo
 - **Compatibilidad multiplataforma**: Funciona en Windows, Linux y macOS a través de cualquier navegador moderno.
 - **Interoperabilidad**: Utiliza tecnologías web estándar para funcionar en múltiples plataformas.
 - **Facilidad de mantenimiento**: Código modular con separación clara de responsabilidades.
-- **Control de versiones**: Implementado utilizando Git/GitHub para facilitar el seguimiento y colaboración.
+- **Control de versiones**: Implementado utilizando Git/GitHub para facilitar el seguimiento del desarrollo.
 - **Persistencia de datos**: Información almacenable entre sesiones.
 - **Escalabilidad**: Diseñada para manejar desde pequeñas listas de elementos hasta grandes inventarios.
 
