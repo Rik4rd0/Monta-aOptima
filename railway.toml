@@ -1,6 +1,6 @@
 [build]
 builder = "nixpacks"
-buildCommand = "composer install && php artisan migrate:fresh --seed"
+buildCommand = "composer install"
 
 [deploy]
 numReplicas = 1
