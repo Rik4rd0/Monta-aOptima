@@ -191,7 +191,5 @@ La herramienta principal permite a los usuarios:
 
 Los resultados se presentan de manera clara, mostrando todas las combinaciones válidas ordenadas por eficiencia, permitiendo al usuario tomar una decisión informada sobre qué elementos llevar en su excursión.
 
-## Ejemplo de Resultados
 
-Una vez que el usuario ha ingresado sus elementos y restricciones (como en el ejemplo con los elementos E1-E5), el sistema muestra las diferentes combinaciones válidas, incluyendo:
 
