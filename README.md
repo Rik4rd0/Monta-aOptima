@@ -19,6 +19,14 @@ Este proyecto fue desarrollado para resolver un problema común en excursionismo
 - **Estilos**: Tailwind CSS para una interfaz responsiva.
 - **Algoritmo**: Implementación basada en fuerza bruta para encontrar combinaciones óptimas.
 
+## Requerimientos Técnicos
+- PHP 8.2 o superior
+- Composer 2.0 o superior
+- Laravel 12.x
+- Servidor web compatible (Apache, Nginx)
+- MySQL 8.0 o PostgreSQL 13.0 
+- Node.js 16.x y NPM 8.x (para compilación de assets)
+
 ## Arquitectura de la Solución
 La aplicación sigue una arquitectura MVC (Modelo-Vista-Controlador):
 
