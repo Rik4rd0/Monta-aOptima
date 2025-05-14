@@ -159,3 +159,39 @@ El sistema encontrará múltiples combinaciones válidas, incluyendo:
 - **E2 + E4 + E5**: Peso 6, Calorías 16 (solución de menor peso).
 - **E1 + E2 + E4**: Peso 9, Calorías 16 (combinación mencionada en el ejemplo).
 
+## Evidencia de la Plataforma
+
+La aplicación Montaña Óptima cuenta con una interfaz intuitiva y funcional que permite a los usuarios optimizar su equipamiento para excursiones.
+
+### Página de Inicio
+
+![Página de inicio de Montaña Óptima](docs/images/montana-optima-home.png)
+
+La página principal presenta la aplicación con una imagen inspiradora de montañismo y explica el propósito del optimizador. Los usuarios pueden apreciar las características principales del sistema antes de comenzar a usarlo.
+
+### Sección Informativa
+
+![Sección informativa](docs/images/montana-optima-info.png)
+
+Esta sección describe detalladamente qué es Montaña Óptima y presenta las características principales del sistema:
+- Algoritmo avanzado de optimización
+- Interfaz intuitiva y amigable
+- Personalización de elementos
+- Resultados visuales claros
+
+### Herramienta de Optimización
+
+
+![Herramienta de optimización](docs/images/montana-optima-tool.png)
+
+La herramienta principal permite a los usuarios:
+1. Establecer restricciones de peso máximo y calorías mínimas
+2. Agregar elementos con sus respectivos pesos y valores calóricos
+3. Calcular la combinación óptima según los parámetros establecidos
+
+Los resultados se presentan de manera clara, mostrando todas las combinaciones válidas ordenadas por eficiencia, permitiendo al usuario tomar una decisión informada sobre qué elementos llevar en su excursión.
+
+## Ejemplo de Resultados
+
+Una vez que el usuario ha ingresado sus elementos y restricciones (como en el ejemplo con los elementos E1-E5), el sistema muestra las diferentes combinaciones válidas, incluyendo:
+
