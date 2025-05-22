@@ -199,7 +199,7 @@
         </div>
     </div>
     
-    <script src="{{ url('js/optimizador.js') }}"></script>
+    <script src="{{ secure_asset('js/optimizador.js') }}"></script>
     <script>
         function optimizadorApp() {
             return {
