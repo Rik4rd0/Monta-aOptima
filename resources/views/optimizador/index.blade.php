@@ -151,7 +151,7 @@
         <div x-show="resultado !== null" x-cloak class="bg-white rounded-lg shadow-md p-6">
             <h2 class="text-xl font-semibold mb-4">Resultados</h2>
             
-            <template x-if="resultado.combinaciones && resultado.combinaciones.length > 0">
+            <template x-if="resultado && resultado.combinaciones && resultado.combinaciones.length > 0">
                 <div>
                     <div class="mb-4">
                         <p class="text-gray-700 font-medium" x-text="resultado.mensaje"></p>
@@ -191,9 +191,9 @@
                 </div>
             </template>
             
-            <template x-if="!resultado.combinaciones || resultado.combinaciones.length === 0">
+            <template x-if="!resultado || !resultado.combinaciones || resultado.combinaciones.length === 0">
                 <div class="p-4 bg-yellow-50 text-yellow-800 rounded-md">
-                    <span x-text="resultado.mensaje || 'No se encontró una combinación que cumpla con los requisitos. Por favor, ajusta los parámetros.'"></span>
+                    <span x-text="resultado && resultado.mensaje ? resultado.mensaje : 'No se encontró una combinación que cumpla con los requisitos. Por favor, ajusta los parámetros.'"></span>
                 </div>
             </template>
         </div>
